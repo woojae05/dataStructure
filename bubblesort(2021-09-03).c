@@ -1,5 +1,5 @@
+#define _CRT_SECURE_NO_WARNINGS
 #include<stdio.h>
-#define _CRT_SECURRE_NO_WARNINGS
 
 #define swap(type,x,y){type t=x;x=y;y=t};
 #define swap1(x,y,t) ((t)=(x);(x)=(y);(y)=(t));
